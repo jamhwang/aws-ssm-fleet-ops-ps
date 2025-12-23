@@ -1,0 +1,15 @@
+# PowerShell
+*.psd1.user
+*.psm1.user
+
+# Logs / reports
+reports/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
